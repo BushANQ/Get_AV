@@ -8,5 +8,5 @@
 #### app.js - 包含应用逻辑
 ##### 数据来源：网络
 ##### 目前正在收集杀软进程中，欢迎补充
-##### 效果演示:![av](https://raw.githubusercontent.com/BushANQ/Get_AV/master/1.png)
+##### 效果演示:![av](https://raw.githubusercontent.com/BushANQ/Get_AV/master/V1.1.png)
 
