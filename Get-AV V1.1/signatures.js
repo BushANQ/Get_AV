@@ -1,4 +1,4 @@
-        // 安全软件特征库 (保持原有代码)
+        // 安全软件特征库
         const avSignatures = {
                 'ALYac': ['aylaunch.exe', 'ayupdate2.exe', 'AYRTSrv.exe', 'AYAgent.exe'],
                 'AVG': ['AVGSvc.exe', 'AVGUI.exe', 'avgwdsvc.exe', 'avg.exe', 'avgaurd.exe', 'avgemc.exe', 'avgrsx.exe', 'avgserv.exe', 'avgw.exe'],
