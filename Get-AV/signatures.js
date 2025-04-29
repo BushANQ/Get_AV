@@ -172,6 +172,7 @@
                 '奇安信统一服务器安全': ['NuboshEndpoint.exe'],
                 'IObit Malware Fighter': ['IMF.exe', 'IMFCore.exe', 'IMFsrv.exe', 'IMFSrvWsc.exe'],
                 'Deep Instinct': ['DeepUI.exe'],
-                'WithSecure Elements': ['fsulprothoster.exe', 'FsPisces.exe', 'fshoster64.exe', 'fshoster32.exe', 'fsdevcon.exe']
+                'WithSecure Elements': ['fsulprothoster.exe', 'FsPisces.exe', 'fshoster64.exe', 'fshoster32.exe', 'fsdevcon.exe'],
+                'Bitdefender MSP Cloud Security': ['EPConsole.exe', 'EPHost.Integrity.exe', 'EPIntegrationService.exe', 'EPProtectedService.exe', 'EPSecurityService.exe', 'EPUpdateService.exe']
                         // 可以继续添加更多特征
                     };
