@@ -11,6 +11,7 @@
 ##### 效果演示:![av](https://raw.githubusercontent.com/BushANQ/Get_AV/master/V1.1.png)
 
 ## 📝 TODO
+* [x] ---- 2025-4-29 新增了对Sophos企业系列Sophos Intercept X的补充识别
 * [x] ---- 2025-4-29 新增了对Bitdefender MSP Cloud Security的识别
 * [x] ---- 2025-4-29 新增了对WithSecure Elements的识别
 * [x] ---- 2025-4-29 新增了对Deep lnstinct DSX的识别
