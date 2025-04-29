@@ -11,8 +11,9 @@
 ##### 目前正在收集杀软进程中，欢迎补充
 ##### 效果演示:![av](https://raw.githubusercontent.com/BushANQ/Get_AV/master/V1.1.png)
 
-## 版本日志：
-### V1.1更新日志
+## 📝 TODO
+* [x] ---- 2025-4-29 新增了对withsecure Elements的识别补充
+* [x] ---- 2025-4-29 新增了对Deep lnstinct的识别补充; 注意：新增识别为Deep lnstinct唯一的exe:UI程序，其他均为驱动无法通过exe进行识别
 * 动效改进：
 * [x] ---- 1.标题简约化，一定的动效改进
 * [x] ---- 2.卡片悬浮效果优化
